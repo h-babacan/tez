@@ -35,7 +35,14 @@ This project comprises the development of an e-commerce website, which formed pa
 
 
 ## Technologies
-
+- HTML
+- CSS
+- JAVASCRIPT
+- C#
+- MVC 5.0
+- ASP.NET
+- SCSS
+- SQL SERVER MANAGEMENT STUDIO
 
 
 ## Requirements
