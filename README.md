@@ -18,7 +18,7 @@ This project comprises the development of an e-commerce website, which formed pa
 - Product Catalogue: Users can view products in various categories.
 - User Registration and Login: New users and dealers can register and existing users can login, dealers can benefit from special discounts.
 - Basket Management: Users can add, remove and order products to their basket.
-- Admin Panel: You can control the entire site from the admin panel; you can update users, products, dealers, sub and upper categories, add and delete new ones. You can see the sales in the last 1 month on the chart
+- Admin Panel: You can control the entire site from the admin panel; you can update users, products, dealers, sub and upper categories, add and delete new ones. You can see the sales in the last 1 month on the chart.
 
 
 ## Usage
