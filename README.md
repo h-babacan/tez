@@ -18,8 +18,7 @@ This project comprises the development of an e-commerce website, which formed pa
 - Product Catalogue: Users can view products in various categories.
 - User Registration and Login: New users and dealers can register and existing users can login, dealers can benefit from special discounts.
 - Basket Management: Users can add, remove and order products to their basket.
-- Admin Panel: You can control the entire site from the admin panel; you can update users, products, dealers, sub and upper categories, add and delete new ones.
-
+- Admin Panel: You can control the entire site from the admin panel; you can update users, products, dealers, sub and upper categories, add and delete new ones. You can see the sales in the last 1 month on the chart
 
 
 ## Usage
@@ -32,6 +31,7 @@ This project comprises the development of an e-commerce website, which formed pa
 - You can add, update or delete new categories from the admin panel; you can set the top category subcategories by maintaining the hierarchical order between categories.
 - You can add, update or delete new dealers from the admin panel.
 - You can see the orders placed on the site from the admin panel with details.
+- You can see the categories of purchases made through the site in the last 1 month and who spent the most.
 
 
 ## Technologies
@@ -53,6 +53,7 @@ This project comprises the development of an e-commerce website, which formed pa
 - Entity framework library
 - Summernote library
 - Business library (included in the code)
+- Chart.js
 
 ## Installation
 Start by cloning the repository:
